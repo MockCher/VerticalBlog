@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "title": "How to cut a apple.",
+      "content": "",
+      "author": "FruitFreak",
+      "date": "",
+      "image": "https://images.unsplash.com/photo-1457803097035-3ace37af34a7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+      "colorscheme": "#a8e4a0"
+    },
+    {
+      "title": "Pears. Wonderful.",
+      "content": "",
+      "author": "FruitFreak",
+      "date": "",
+      "image": "https://images.unsplash.com/photo-1572929773424-93549dced6d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "colorscheme": "#eae0c8"
+    },
+    {
+      "title": "How NOT to peel a banana!!",
+      "content": "",
+      "author": "FruitFreak",
+      "date": "",
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "colorscheme": "#fae7b5"
+    },
+    {
+      "title": "Learning mandarin in under 5 minutes (the fruit, not the language)",
+      "content": "",
+      "author": "FruitFreak",
+      "date": "",
+      "image": "https://images.unsplash.com/photo-1482012792084-a0c3725f289f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+      "colorscheme": "#f37a48"
+    },
+    {
+      "title": "Potatos: 1000th Anniversery",
+      "content": "",
+      "author": "VegetablesWin",
+      "date": "",
+      "image": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+      "colorscheme": "#EFEAB5"
+    }
+  ]
+}
